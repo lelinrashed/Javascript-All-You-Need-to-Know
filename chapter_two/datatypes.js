@@ -69,11 +69,35 @@ console.log(b1);
  * Undefined = A variable without value always store undefined
  * Null = A variable with unknown value can store Null
  */
-
+/*
 var abc
 
 var xyz = null
 
 console.log(abc);
 console.log(xyz);
+*/
+
+
+/**
+ * Working with hexadecimal number
+ * base 16
+ */
+
+
+var hex = 0Xffd
+console.log(hex);
+
+
+
+
+/**
+ * Working with octal number
+ * base 8
+ */
+
+
+var oct = 0756
+console.log(oct);
+
 
